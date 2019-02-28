@@ -1,0 +1,9 @@
+.atomignore
+
+.gitignore
+
+.watchmanconfig
+
+babel.config.js
+
+package-lock.json
